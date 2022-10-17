@@ -297,6 +297,6 @@ along with an extensive litany of tests to prove its correctness.
 Thanks for reading this long! I hope you came to appreciate the coolness of
 `nom` and parser-combinators in general the same way I did. If you have any
 feedback at all, I'd appreciate leaving some in the comments. If you learned
-something from this article, I'd appreciate that, too!
+something from this article, I'd appreciate a like as well!
 
 *Cover image courtesy of [XKCD](https://xkcd.com/1171/).*
