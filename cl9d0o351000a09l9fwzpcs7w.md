@@ -267,8 +267,9 @@ also works beautifully thanks to the `alt` combinator.
 ```rust
 pub fn parse_bencode(bencode_bytes: &[u8])
     -> IResult<&[u8], Bencode> {
-    // The `alt` combinator takes a tuple of parsers and keeps running them in
-    // succession until one of them succeeds, or until all of them fail.
+    // The `alt` combinator takes a tuple of parsers and 
+    // keeps running them in succession until one of them
+    // succeeds, or until all of them fail.
     alt((
         // We use `map` in all four cases to wrap
         // the result of the child parsers to the
