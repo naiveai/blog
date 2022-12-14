@@ -40,9 +40,9 @@ They're also motivating because each step along the way is relatively simple to 
 
 It's also possible to borrow code from other projects, but it's not as easy to copy stuff wholesale if you already have some stuff you need to integrate that code with. Some more niche protocols may not have implementations in the programming language you're working with, which means you still need to study their approach and translate it if you need help.
 
-Protocols are precise, but they also aren't insulated from the messy reality of the world. Once your implementation gets past a basic level, it is naturally going to slam straight first into non-conforming peers, hacky workarounds, and (often but not always) the unreliability of networks. Frustrating, but necessary for developing your skills - and by the time you've gotten to this stage, you're often very close, so your motivation can keep you pushing through.
+Protocols are precise, but they also aren't insulated from the messy reality of the world. Once your implementation gets past a basic level, it is naturally going to slam straight into non-conforming peers, hacky workarounds, and (often but not always) the unreliability of networks. Frustrating, but necessary for developing your skills - and by the time you've gotten to this stage, you're often very close, so your motivation can keep you pushing through.
 
-Lastly, they force you to overcome an intimidation factor that I think is very important to a developer's maturity. If you're like me, you're likely coming into this convinced that you're not cut out to implement highly detailed and long specifications for low-level protocols. But most of us have likely never actually read one of them cover to cover. I hope this article serves as a nudge for you to do so, picking from one of the many important protocols to implement:
+Lastly, they force you to overcome an intimidation factor that I think is very important to a developer's maturity. If you're like me, you're likely coming into this convinced that you're not cut out to implement highly detailed and long specifications for low-level protocols. But most of us have never actually read one of them cover to cover. I hope this article serves as a nudge for you to do so, picking from one of the many important protocols to implement:
 
 *   [TCP](https://www.ietf.org/rfc/rfc9293.html)
     
